@@ -15,4 +15,4 @@ The code file "regression_models" is structured as follows :
 4. Linear Ridge regressor
 5. k-NN regressor
 6. Summary / Models comparisons
-7. Additional approaches to try in future repos
+7. Additional approaches for future repos
