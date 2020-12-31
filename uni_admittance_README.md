@@ -1,5 +1,3 @@
-# Regression_models
-
 In this repo we explore the " https://www.kaggle.com/mohansacharya/graduate-admissions " Kaggle dataset, 
 which consists of several parameters that are considered important for a student in their application for Masters Programs. 
 
