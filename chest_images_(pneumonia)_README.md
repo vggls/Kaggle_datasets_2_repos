@@ -23,7 +23,7 @@ The code file is structured as follows :
 
 We make remarks on the learning curves and the accuracy of the models over unseen data.
 
-Overall, as expected, we see that the model with the pre-trained layers performs better with respect to all performance metrics.
+Overall, as expected, we see that **the model with the pre-trained layers performs better** with respect to all performance metrics.
 
 5) **Additional material to be added in the future**
 
