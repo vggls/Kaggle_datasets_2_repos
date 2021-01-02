@@ -21,7 +21,7 @@ The code file is structured as follows :
                   
 4) **Summary / Comparison of the classifiers**
 
-Overall, for the pneumonia detection task, we see that the 2nd classifier achives better performance results than the 1st one.
+Overall, for the **pneumonia detection task**, we see that the 2nd classifier achives better performance results than the 1st one.
 
 More specifically, it has **Recall = 1 (very important), Accuracy = 0.94, Precision = 0.89 and f1-score = 0.94**.
 
