@@ -19,11 +19,11 @@ The code file is structured as follows :
                   
      3.2) Model evaluation (learning curves, predictions on unseen data & confusion matrix) 
                   
-4) **Summary of the aforementioned classifiers**
+4) **Summary / Comparison of the classifiers**
 
-We make remarks on the learning curves and the accuracy of the models over unseen data.
+Overall, for the pneumonia detection task, we see that the 2nd classifier achives better performance results than the 1st one.
 
-Overall, as expected, we see that **the model with the pre-trained layers performs better** with respect to all performance metrics.
+More specifically, it has **Recall = 1 (very important), Accuracy = 0.94, Precision = 0.89 and f1-score = 0.94**.
 
 5) **Additional material to be added in the future**
 
