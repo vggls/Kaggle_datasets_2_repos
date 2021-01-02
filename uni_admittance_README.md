@@ -12,5 +12,5 @@ The code file "regression_models" is structured as follows :
 3. Linear OLS regressor
 4. Linear Ridge regressor
 5. k-NN regressor
-6. Summary / Models comparisons : **Eventually we see that the Ridge Regresson has the smallest MSE over unseen data**
+6. Summary / Models comparisons : **Eventually we see that the Ridge Regressor has the smallest MSE over unseen data**
 7. Additional approaches for future repos
